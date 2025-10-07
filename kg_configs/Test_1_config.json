@@ -1,0 +1,20 @@
+{
+  "name": "Test_1",
+  "created_at": "2025-09-21 16:33:30.792290",
+  "model_name": "gemini/gemini-2.5-pro",
+  "ontology_file": "kg_configs/Test_1",
+  "sources": [
+    "data/01-29 Konzept Mahlzeitenmilieu fu\u0308r Demenzkranke.txt",
+    "data/01.01.01. Pflegeleistungen_stat_Einrichtungen.txt",
+    "data/01.01.03. Leistungsangebot und Konzept Soziale Betreuung.txt",
+    "data/01-28 Konzept Nachtcafe\u0301.txt",
+    "data/01.01.04. Leistungen der Unterkunft und Verpflegung.txt",
+    "data/01.01.02. Leistungsangebote_stat_Einrichtungen.txt"
+  ],
+  "node_count": 96,
+  "relationship_count": 183,
+  "chunk_count": 11,
+  "has_vector_index": true,
+  "language": "de",
+  "is_default": false
+}
